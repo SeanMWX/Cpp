@@ -1,8 +1,8 @@
 # C/C++
 
-> Reporsitory for Practicing C/C++
+> Reporsitory for Practicing C/C++  
 > Name: Xinhai Zou  
-> Github: SeanMWX
+> Github: SeanMWX  
 > <font color="red">Please DO NOT COPY ANYTHING WITHOUT PERMISSIONS!</font>
 
 ## Installation 
