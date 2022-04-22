@@ -160,7 +160,20 @@ int main() {
     f(ls);
 
 
+    char c = 'a';
+    // pointer
+    char *c_p = &c;
+    std::cout << *c_p << std::endl;
 
+    int v1[] = {0,1,2,3,8,9,6,7,8,9};
+    int i1 = &v1[5] - &v1[3];
+    std::cout << i1 << std::endl;
+    std::cout << v1[3] << std::endl;
+    std::cout << v1[5] << std::endl;
+
+    for (int i = 0; i < 10; ++i) {
+        std::cout << v1[i] << std::endl;
+    }
 
 
 

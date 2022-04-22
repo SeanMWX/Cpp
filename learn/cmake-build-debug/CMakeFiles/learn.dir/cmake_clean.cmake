@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/learn.dir/main.cpp.obj"
-  "CMakeFiles/learn.dir/main.cpp.obj.d"
-  "learn.exe"
-  "learn.exe.manifest"
+  "CMakeFiles/learn.dir/main.cpp.o"
+  "CMakeFiles/learn.dir/main.cpp.o.d"
+  "learn"
   "learn.pdb"
-  "liblearn.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

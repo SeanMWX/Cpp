@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/xinha/Documents/Github Repositories/Cpp/learn/main.cpp" "CMakeFiles/learn.dir/main.cpp.obj" "gcc" "CMakeFiles/learn.dir/main.cpp.obj.d"
+  "/Users/seanzou/Documents/GitHub_Repository/Cpp/learn/main.cpp" "CMakeFiles/learn.dir/main.cpp.o" "gcc" "CMakeFiles/learn.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.
