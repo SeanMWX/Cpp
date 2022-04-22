@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2021.3.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\learn.dir/objects.a
-C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc CMakeFiles\learn.dir/objects.a @CMakeFiles\learn.dir\objects1.rsp
-C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\learn.dir/objects.a -Wl,--no-whole-archive -o learn.exe -Wl,--out-implib,liblearn.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\learn.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/learn.dir/main.cpp.o -o learn 

@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "learn.exe"
-		},
-		{
-			"path" : "learn.pdb"
+			"path" : "learn"
 		}
 	],
 	"backtrace" : 1,
@@ -38,10 +35,10 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g"
+					"fragment" : "-g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk"
 				},
 				{
-					"fragment" : "-std=gnu++23"
+					"fragment" : "-std=gnu++2a"
 				}
 			],
 			"language" : "CXX",
@@ -71,16 +68,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "learn",
-	"nameOnDisk" : "learn.exe",
+	"nameOnDisk" : "learn",
 	"paths" : 
 	{
 		"build" : ".",
